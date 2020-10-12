@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './Message.css';
 
 function convertDate(timestamp) {
     const datetime = new Date(timestamp);
